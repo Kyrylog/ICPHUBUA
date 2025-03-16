@@ -15,7 +15,7 @@ View the [canister service definition](https://github.com/dfinity/examples/blob/
 ## Prerequisites
 This example requires an installation of:
 
-- [x] The Rust toolchain (e.g. cargo).
+- [x] The Rust toolchain (e.g. cargo). curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh 
 - [x] [didc.](https://github.com/dfinity/candid/tree/master/tools/didc)
 - [x] Install the [IC SDK](https://internetcomputer.org/docs/current/developer-docs/getting-started/install).
 - [x] Clone the example dapp project: `git clone https://github.com/dfinity/examples`
